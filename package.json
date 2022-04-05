@@ -1,5 +1,5 @@
 {
-  "name": "react-unit-testing",
+  "name": "react-jest",
   "private": true,
   "version": "0.0.0",
   "scripts": {
